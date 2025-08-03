@@ -1,5 +1,3 @@
-I'm passionate about modeling, simulation, and control of airborne wind energy systems, with a focus on open-source Julia packages for kite power system research.
-
 ## My Open Source Projects
 
 - **[SymbolicAWEModels.jl](https://github.com/OpenSourceAWE/SymbolicAWEModels.jl)**  
