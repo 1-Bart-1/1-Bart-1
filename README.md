@@ -1,6 +1,3 @@
-# Hi, I'm Bart!
-
-Welcome to my GitHub profile!  
 I'm passionate about modeling, simulation, and control of airborne wind energy systems, with a focus on open-source Julia packages for kite power system research.
 
 ## My Open Source Projects
