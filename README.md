@@ -23,7 +23,6 @@
 
 ## Get in Touch
 
-- [GitHub](https://github.com/1-Bart-1)
 - 📧 bart@vandelint.net
 
 ---
