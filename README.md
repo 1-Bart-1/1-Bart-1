@@ -12,9 +12,6 @@
 - **[KiteModels.jl](https://github.com/OpenSourceAWE/KiteModels.jl)**  
   Kite and tether models for simulating kite power systems.
 
-- **[KitePredictiveControl.jl](https://github.com/Albatross-Kite-Transport/KitePredictiveControl.jl)**  
-  Predictive control for kite systems (in progress).
-
 ## About Me
 
 - 💡 Passionate about renewable energy and open-source science.
