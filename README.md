@@ -3,7 +3,7 @@
 Simulation and control engineer working on airborne wind energy — physics-based modeling,
 simulation, and control of kite power systems in Julia. Co-founder of the
 [OpenSourceAWE](https://github.com/OpenSourceAWE) organization, which develops open
-software for the simulation and control of AWE systems.
+software for the simulation and control of airborne wind energy (AWE) systems.
 
 ### Open Source Projects
 
@@ -15,9 +15,10 @@ Part of [OpenSourceAWE](https://github.com/OpenSourceAWE):
 
 - **[V3Kite.jl](https://github.com/OpenSourceAWE/V3Kite.jl)** —
   Simulation of the V3 leading-edge inflatable (LEI) kite, built on SymbolicAWEModels.jl.
+  Validated against flight test data.
 
 - **[RamAirKite.jl](https://github.com/OpenSourceAWE/RamAirKite.jl)** —
-  Ram-air (soft) kite simulation in Julia.
+  Ram-air (soft) kite simulation in Julia, built on SymbolicAWEModels.jl.
 
 See the [OpenSourceAWE](https://github.com/OpenSourceAWE) organization for the full set of
 packages.
