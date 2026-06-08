@@ -13,6 +13,10 @@ Part of [OpenSourceAWE](https://github.com/OpenSourceAWE):
   A symbolic aero-structural modeling and simulation framework for airborne wind energy
   systems.
 
+- **[VortexStepMethod.jl](https://github.com/OpenSourceAWE/VortexStepMethod.jl)** —
+  A high-performance Julia implementation of the Vortex Step Method for aerodynamic
+  modeling of 3D wings, optimized for speed.
+
 - **[V3Kite.jl](https://github.com/OpenSourceAWE/V3Kite.jl)** —
   Simulation of the V3 leading-edge inflatable (LEI) kite, built on SymbolicAWEModels.jl.
   Validated against flight test data.
